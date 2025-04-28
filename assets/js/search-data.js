@@ -23,22 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-atomic-human",
-          title: 'The Atomic Human',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/atomic_human/";
-            },},{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "books-the-atomic-human-understanding-ourselves-in-the-age-of-ai",
-          title: 'The Atomic Human Understanding Ourselves in the Age of AI',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather2/";
-            },},{
+        },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
