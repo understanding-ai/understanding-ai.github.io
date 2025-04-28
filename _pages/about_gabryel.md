@@ -1,0 +1,4 @@
+<br>
+<br>
+<br>
+Gabryel Mason-Williams is a PhD student in AI at [Queen Mary University of London](https://www.qmul.ac.uk/), where he  runs and organsises the fundamentals of AI reading group. He was the 2023 recipient of the [Google Europe Scholarship for Students with Disabilities](https://www.qmul.ac.uk/eecs/news-and-events/news/items/eecs-student-awarded-phd-scholarship-from-google.html) for his contributions to AI and HPC research while being a neurodivergent role model. He has worked in AI for many years and has been worked at in [Diamond Light Source](https://www.diamond.ac.uk) and the [Rosalind Franklin Institute](https://www.rfi.ac.uk) to help them meet their High-Performance-Computing endeavours. Gabryel has also authored publications at world class venues ICLR and NeurIPS and hopes that his research can unveil the black box of neural networks.
